@@ -10,7 +10,7 @@ You will need to write a function to separate the lowercase letters to find out 
  - The name will be spread out among the letters but will remain in the right order.
 
 
-KDFjJLAoSKJsDFNLJKCNMPEWeOIFPQWpOIKCMLASKDChNALSDJKFN == joseph
+For example : KDFbJLASKJuDFNLJKCNMPEWdOIFPQWOIKCMLASKDCdNALSDyJKFN = buddy
 
 */
 
