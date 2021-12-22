@@ -17,10 +17,6 @@ KDFjJLAoSKJsDFNLJKCNMPEWeOIFPQWpOIKCMLASKDChNALSDJKFN == joseph
 //👉 Write the function your CodeWarriors will start with below here:
 
 export function returnTheNaughtyListee(string){
-let name = ""
-for (let i = 0; i < string.length; i++) {
-    if (string[i].toLowerCase())
-}
+
 
 }
-

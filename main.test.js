@@ -1,6 +1,6 @@
 //👉 Write your tests below here:
 
-KDFJLASKJDFNLJKCNMPEWOIFPQWOIKCMLASKDCNALSDJKFN
+
 
 import { returnTheNaughtyListee } from "./main.js"
 
@@ -15,7 +15,7 @@ test('The function should return from "KDFjJLAoSKJsDFNLJKCNMPEWeOIFPQWpOIKCMLASK
     expect(actual).toBe(expected);
 })
 
-"KDFjJLAoSKJsDFNLJKCNMPEWeOIFPQWpOIKCMLASKDChNALSDJKFN"
+
 
 test('The function should return from "KDFJLASKJDFNLJKCNMPEWKkDFJLKASKJDFNLJKCaNMPEWOIFPQWrOIKCMLASKDCNALeSDJKFNOIFPQWOIKCnMLASKDCNALSDJKFN" the name "karen', function(){
     //arrange
