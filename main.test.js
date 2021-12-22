@@ -2,14 +2,14 @@
 
 
 
-import { returnTheNaughtyListee } from "./main.js"
+import { returnTheNiceName } from "./main.js"
 
 test('The function should return from "KDFjJLAoSKJsDFNLJKCNMPEWeOIFPQWpOIKCMLASKDChNALSDJKFN" the name "joseph', function(){
     //arrange
     const jumbled = "KDFjJLAoSKJsDFNLJKCNMPEWeOIFPQWpOIKCMLASKDChNALSDJKFN"
     const expected = "joseph"
     //act
-    const actual = returnTheNaughtyListee(jumbled);
+    const actual = returnTheNiceName(jumbled);
 
     //assert
     expect(actual).toBe(expected);
@@ -22,7 +22,7 @@ test('The function should return from "KDFJLASKJDFNLJKCNMPEWKkDFJLKASKJDFNLJKCaN
     const jumbled = "KDFJLASKJDFNLJKCNMPEWKkDFJLKASKJDFNLJKCaNMPEWOIFPQWrOIKCMLASKDCNALeSDJKFNOIFPQWOIKCnMLASKDCNALSDJKFN"
     const expected = "karen"
     //act
-    const actual = returnTheNaughtyListee(jumbled);
+    const actual = returnTheNiceName(jumbled);
 
     //assert
     expect(actual).toBe(expected);
