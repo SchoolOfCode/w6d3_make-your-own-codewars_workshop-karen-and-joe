@@ -17,10 +17,10 @@ test('The function should return from "KDFjJLAoSKJsDFNLJKCNMPEWeOIFPQWpOIKCMLASK
 
 "KDFjJLAoSKJsDFNLJKCNMPEWeOIFPQWpOIKCMLASKDChNALSDJKFN"
 
-test('The function should return from "KDFjJLAoSKJsDFNLJKCNMPEWeOIFPQWpOIKCMLASKDChNALSDJKFN" the name "joseph', function(){
+test('The function should return from "KDFJLASKJDFNLJKCNMPEWKkDFJLKASKJDFNLJKCaNMPEWOIFPQWrOIKCMLASKDCNALeSDJKFNOIFPQWOIKCnMLASKDCNALSDJKFN" the name "karen', function(){
     //arrange
-    const jumbled = "KDFJLASKJDFNLJKCNMPEWOIFPQWOIKCMLASKDCNALSDJKFN"
-    const expected = "joseph"
+    const jumbled = "KDFJLASKJDFNLJKCNMPEWKkDFJLKASKJDFNLJKCaNMPEWOIFPQWrOIKCMLASKDCNALeSDJKFNOIFPQWOIKCnMLASKDCNALSDJKFN"
+    const expected = "karen"
     //act
     const actual = returnTheNaughtyListee(jumbled);
 
